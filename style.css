@@ -1,0 +1,11 @@
+h1{
+    background-color: aqua;
+    align-items: center;
+    height: 50px;
+    width: 200px;
+}
+.button{
+    background-color: aqua;
+    height: 50px;
+    width: 200px;
+}
